@@ -1,2 +1,4 @@
 nickname, color
 Schnazz, fuschia
+Tetricz, Green
+Mr.Life, Blue
