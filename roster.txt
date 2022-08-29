@@ -1,4 +1,2 @@
 nickname, color
 Schnazz, fuschia
-billybob, mauve
-Fireinafroyo, Light green
